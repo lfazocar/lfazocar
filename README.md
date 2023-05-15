@@ -2,4 +2,4 @@
 
 I'm Felipe.
 
-Currently studying Ruby on Rails. :gem:
+Currently learning Ruby on Rails. :gem:
