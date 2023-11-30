@@ -9,7 +9,7 @@ Desarrollador Ruby on Rails Junior, sin experiencia pero con ganas de aprender.
 
 Además de Ruby también sé algo de Python, utilizandolo para pequeños scripts y tareas que son mas fáciles de resolver con código.
 
-Encuéntrame en [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela-a774b0278/)!
+Encuéntrame en [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela/)!
 
 ---
 
@@ -20,4 +20,4 @@ Junior Ruby on Rails Developer, with no job experience but willing to learn.
 
 Besides Ruby, I also dabble a little bit in Python for small scripts and tasks that can be made easier with code.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela-a774b0278/)!
+Find me on [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela/)!
