@@ -8,18 +8,18 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### PaaS
+### Hosting
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Other software and tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Hobby
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 (Badges from [here](https://github.com/Ileriayo/markdown-badges))
 
@@ -30,7 +30,7 @@
 
 Desarrolador Full-stack pero inclinado más hacia el back end. Tengo experiencia creando aplicaciones web con Ruby (Rails) y Javascript (Node.js + Express), pero igual soy capaz de crear un front básico si es necesario.
 
-Actualmente estoy trabajando en el backend de un proyecto en la incubadora [Desafío Latam](https://www.desafiolatam.com/), y como pasatiempo por mi parte estoy aprendiendo Rust :crab: .
+Actualmente estoy trabajando en el backend de un proyecto en la incubadora [Desafío Latam](https://www.desafiolatam.com/).
 
 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela/)!
 
@@ -41,6 +41,6 @@ Encuéntrame en [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-d
 
 Full-stack developer but leaning more towards the back end. I have experience creating web apps with Ruby (Rails) and Javascript (Node.js + Express), but I'm also capable of creating a basic frontend if needed.
 
-I'm currently working on the backend of a project at the [Desafío Latam](https://www.desafiolatam.com/) incubator, while also learning Rust as a pastime :crab: .
+I'm currently working on the backend of a project at the [Desafío Latam](https://www.desafiolatam.com/) incubator.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela/)!
