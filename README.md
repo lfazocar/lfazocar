@@ -30,9 +30,7 @@
 
 Desarrolador Full-stack pero inclinado más hacia el back end. Tengo experiencia creando aplicaciones web con Ruby (Rails) y Javascript (Node.js + Express), pero igual soy capaz de crear un front básico si es necesario.
 
-Actualmente estoy trabajando en el backend de un proyecto en la incubadora [Desafío Latam](https://www.desafiolatam.com/).
-
-Encuéntrame en [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela/)!
+Encuéntrame en [LinkedIn](https://www.linkedin.com/in/lfazocar)!
 
 ---
 
@@ -41,6 +39,4 @@ Encuéntrame en [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-d
 
 Full-stack developer but leaning more towards the back end. I have experience creating web apps with Ruby (Rails) and Javascript (Node.js + Express), but I'm also capable of creating a basic frontend if needed.
 
-I'm currently working on the backend of a project at the [Desafío Latam](https://www.desafiolatam.com/) incubator.
-
-Find me on [LinkedIn](https://www.linkedin.com/in/luis-felipe-az%C3%B3car-dr%C3%A1pela/)!
+Find me on [LinkedIn](https://www.linkedin.com/in/lfazocar)!
