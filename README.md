@@ -27,13 +27,9 @@
 
 Desarrolador Full-stack pero inclinado más hacia el back end. Tengo experiencia creando aplicaciones web con Python, Javascript y Ruby, pero igual soy capaz de crear un front básico si es necesario.
 
-Encuéntrame en [LinkedIn](https://www.linkedin.com/in/lfazocar)!
-
 ---
 
 :us: English
 ### Hi, I'm Felipe!
 
 Full-stack developer but leaning more towards the back end. I have experience creating web apps with Python, Javascript and Ruby, but I'm also capable of creating a basic frontend if needed.
-
-Find me on [LinkedIn](https://www.linkedin.com/in/lfazocar)!
